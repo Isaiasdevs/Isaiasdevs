@@ -1,7 +1,6 @@
 
 
-###  Sejam Bem-vindXs ao meu GitHub! 🏳️‍🌈
-
+###  Sejam Bem-vindos(as) ao meu GitHub!
 
 Olá, pessoal 👋 me chamo Isaias, neste espaço, você encontrará projetos e trabalhos que refletem meu empenho, criatividade e comprometimento em aprimorar minhas habilidades como desenvolvedor. Busco constantemente enfrentar desafios e expandir meus conhecimentos, aprimorando-me em linguagens de programação, ferramentas e conceitos modernos.
 
@@ -12,7 +11,6 @@ Aqui, todXs são bem-vindXs para explorar, colaborar e se inspirar. Seja você u
 Obrigado por visitar meu GitHub e por fazer parte desta aventura!
 
 Isaias Araújo
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-ara%C3%BAjo/)
