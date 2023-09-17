@@ -6,7 +6,7 @@ Olá, pessoal 👋 me chamo Isaias, neste espaço, você encontrará projetos e 
 
 Meu foco atual é desenvolvimento web, com foco em BackEnd e desenvolvimento de aplicativos móveis. Estou entusiasmado em compartilhar meus projetos e contribuições, além de aprender com outros desenvolvedores talentosos e inovadores.
 
-Aqui, todXs são bem-vindXs para explorar, colaborar e se inspirar. Seja você um profissional experiente ou um estudante como eu, acredito que juntos podemos criar um ambiente enriquecedor para o crescimento mútuo.
+Aqui, todos são bem-vindos para explorar, colaborar e se inspirar. Seja você um profissional experiente ou um estudante como eu, acredito que juntos podemos criar um ambiente enriquecedor para o crescimento mútuo.
 
 Obrigado por visitar meu GitHub e por fazer parte desta aventura!
 
